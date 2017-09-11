@@ -88,7 +88,7 @@ cd ../../directory
 ==========
 14. How would you show all of the files (including hidden ones) with detailed (long) information that are on you're Desktop if you're in your home directory?  Write your command below.
 ----------
-
+ls -A
 ==========
 Optional Challenge:
 
