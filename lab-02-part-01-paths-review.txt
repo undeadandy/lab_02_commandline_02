@@ -14,31 +14,31 @@ Feel free to use your workstation to test your answers to the questions that don
 1. Write the command that you would use to change to the root directory.
 ----------
 
-
+/
 
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
 
-
+cd
 
 ==========
 3. Write the command that you would use to change to your Desktop folder.
 ----------
 
-
+cd Desktop
 
 ==========
 4. What's the absolute path to your home directory?
 ----------
 
-
+/Users/student
 
 ==========
 5. What's the absolute path to your Desktop directory?
 ----------
 
-
+/Users/student/Desktop
 
 ==========
 6. What's the absolute path to your Desktop directory?
